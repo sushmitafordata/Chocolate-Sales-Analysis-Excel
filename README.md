@@ -1,8 +1,7 @@
 # Chocolate-Sales-Analysis-Excel
 
-AtliQ Hardware is a leading supplier of computer hardware and peripherals, catering to a diverse range of clients across India, including surge stores, Nomad stores, and more. With a strong presence in both the United States and India, AtliQ Hardware operates as a multinational entity, offering its services to businesses worldwide.
+![image](https://github.com/sushmitafordata/Chocolate-Sales-Analysis-Excel/assets/135410984/00a0d2d0-914e-4bbf-aacb-c053889c993a)
 
-Using the data of the company, reports for Sales and Finanace department has been created to make more data-informed decisions for business growth and strategy making.
 ## Sales Report :
 
 
