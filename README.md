@@ -19,9 +19,11 @@ Ultimately, the goal is to empower Awesome Chocolates with data-driven strategie
 
   **2.** **Data Quality Assessment**
   Assess the quality of the data by identifying missing values,outliers and inconsistencies.
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+  #### Key Insights
+  - Distinct count of Choclates are 22.
+  - Most of the sales falls around the lowest 25% of Sales and the middle of Sales but few upper values are skewing the average.
+
 
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
