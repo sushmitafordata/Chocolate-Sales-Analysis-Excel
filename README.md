@@ -2,17 +2,19 @@
 
 ![image](https://github.com/sushmitafordata/Chocolate-Sales-Analysis-Excel/assets/135410984/00a0d2d0-914e-4bbf-aacb-c053889c993a)
 
-At Awesome Chocolates, there is a pressing need to comprehensively analyze various aspects of their sales performance to make informed business decisions. This includes examining sales data, salesperson performance metrics, and product performance to identify underperforming products that may need to be discontinued. By leveraging Excel-based data analysis techniques, this project aims to provide actionable insights into sales trends, identify top-performing salespersons and products, and pinpoint areas for improvement. Ultimately, the goal is to empower Awesome Chocolates with data-driven strategies that optimize their sales operations and enhance overall business performance.
+At Awesome Chocolates, there is a pressing need to comprehensively analyze various aspects of their sales performance to make informed business decisions. This includes examining sales data, salesperson performance metrics, and product performance to identify underperforming products that may need to be discontinued. By leveraging Excel-based data analysis techniques, this project aims to provide actionable insights into sales trends, identify top-performing salespersons and products, and pinpoint areas for improvement. 
 
-## Sales Report :
+Ultimately, the goal is to empower Awesome Chocolates with data-driven strategies that optimize their sales operations and enhance overall business performance.
+
+## Statistics and EDA :
 
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/sushmitafordata/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** **Understanding the data ** - Get a view over characterstics ,structure and distribution of data 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/sushmitafordata/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
-
+    **2.** **Identifying Patterns and Relationships**
+  Identify patterns,trends and relationships within the data
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
