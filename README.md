@@ -2,6 +2,8 @@
 
 ![image](https://github.com/sushmitafordata/Chocolate-Sales-Analysis-Excel/assets/135410984/00a0d2d0-914e-4bbf-aacb-c053889c993a)
 
+At Awesome Chocolates, there is a pressing need to comprehensively analyze various aspects of their sales performance to make informed business decisions. This includes examining sales data, salesperson performance metrics, and product performance to identify underperforming products that may need to be discontinued. By leveraging Excel-based data analysis techniques, this project aims to provide actionable insights into sales trends, identify top-performing salespersons and products, and pinpoint areas for improvement. Ultimately, the goal is to empower Awesome Chocolates with data-driven strategies that optimize their sales operations and enhance overall business performance.
+
 ## Sales Report :
 
 
