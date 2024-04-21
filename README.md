@@ -6,15 +6,19 @@ At Awesome Chocolates, there is a pressing need to comprehensively analyze vario
 
 Ultimately, the goal is to empower Awesome Chocolates with data-driven strategies that optimize their sales operations and enhance overall business performance.
 
-## Statistics and EDA :
+## _[Statistics and EDA Report]([https://github.com/sushmitafordata/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf](https://github.com/sushmitafordata/Chocolate-Sales-Analysis-Excel/blob/main/Choclate%20Sales%20Analysis(Statistics%20and%20EDA).pdf))_  :
 
 
 - **Project objective:** 
 
-    **1.** **Understanding the data ** - Get a view over characterstics ,structure and distribution of data 
+    **1.** **Understanding the data**
+  Get a view over characterstics ,structure and distribution of data.
 
     **2.** **Identifying Patterns and Relationships**
-  Identify patterns,trends and relationships within the data
+  Identify patterns,trends and relationships within the data.
+
+  **2.** **Data Quality Assessment**
+  Assess the quality of the data by identifying missing values,outliers and inconsistencies.
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
