@@ -6,7 +6,7 @@ At Awesome Chocolates, there is a pressing need to comprehensively analyze vario
 
 Ultimately, the goal is to empower Awesome Chocolates with data-driven strategies that optimize their sales operations and enhance overall business performance.
 
-## _[Statistics and EDA Report]([https://github.com/sushmitafordata/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf](https://github.com/sushmitafordata/Chocolate-Sales-Analysis-Excel/blob/main/Choclate%20Sales%20Analysis(Statistics%20and%20EDA).pdf))_  :
+## _[Statistics and EDA Report](https://github.com/sushmitafordata/Chocolate-Sales-Analysis-Excel/blob/main/Choclate%20Sales%20Analysis(Statistics%20and%20EDA).pdf))_  :
 
 
 - **Project objective:** 
