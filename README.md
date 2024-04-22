@@ -20,26 +20,33 @@ Ultimately, the goal is to empower Awesome Chocolates with data-driven strategie
   **2.** **Data Quality Assessment**
   Assess the quality of the data by identifying missing values,outliers and inconsistencies.
 
-  #### Key Insights
-  - Distinct count of Choclates are 22.
-  - Most of the sales falls around the lowest 25% of Sales and the middle of Sales but few sales numbers that are much higher than usual (outliers) are skewing the average.
+  ### Key Insights
+  - The chocolate factory has a diverse range of 22 distinct chocolate varieties.
+  - The majority of sales cluster around the lower quartile and median of the sales distribution. However, a few exceptionally high sales numbers, which we consider outliers, are significantly impacting the average.
   - Lowest 25% of Sales (Q1) is $1652,Average of Sales (Q2) is $3437  and Top 25% of Sales(Q3)is $6246.
   - In the USA, the range of sales amounts for chocolates is consistently narrow and uniform, while in Canada, it's notably broader, indicating greater variability across regions.
 
 
-## Finance Report :
+## [Sales Report](https://github.com/sushmitafordata/Chocolate-Sales-Analysis-Excel/blob/main/Choclate%20Sales%20Analysis%20(Sales%20Performance).pdf) :
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/sushmitafordata/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/sushmitafordata/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+  **1.** **Performance Evaluation**
+  Assess sales performance against predefined goals and targets
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/sushmitafordata/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+    **2.** **Decision Making**
+  Making informed decisions regarding pricing strategies, product offerings , inventory maangement, and resource allocation. 
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+  **2.** **Performance Incentives**
+  Track individual and team performance metrics,rewarding top performers and provide support and training to those who may be struggling.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+ ### Key Insights
+  - India ,Canada and New Zealand are top selling countries..
+  - The majority of sales cluster around the lower quartile and median of the sales distribution. However, a few exceptionally high sales numbers, which we consider outliers, are significantly impacting the average.
+  - Lowest 25% of Sales (Q1) is $1652,Average of Sales (Q2) is $3437  and Top 25% of Sales(Q3)is $6246.
+  - In the USA, the range of sales amounts for chocolates is consistently narrow and uniform, while in Canada, it's notably broader, indicating greater variability across regions.
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+
 
 
 ## Technical & Soft Skills:
