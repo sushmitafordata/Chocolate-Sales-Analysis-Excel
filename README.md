@@ -12,7 +12,7 @@ Ultimately, the goal is to empower Awesome Chocolates with data-driven strategie
 - **Project objective:** 
 
     **1.** **Understanding the data**
-  Get a view over characterstics ,structure and distribution of data.
+  Get a view over characteristics ,structure and distribution of data.
 
     **2.** **Identifying Patterns and Relationships**
   Identify patterns,trends and relationships within the data.
@@ -50,7 +50,7 @@ Ultimately, the goal is to empower Awesome Chocolates with data-driven strategie
 - **Project objective:** 
 
   **1.** **Insight into Sales Trends**
-  To identify trends in consumer prefernces and purchasing behavior.
+  To identify trends in consumer preferences and purchasing behavior.
 
     **2.** **Optimizing Inventory Management**
    To minimize stockouts of popular products while reducing excess inventory of slow-moving items. 
@@ -59,7 +59,7 @@ Ultimately, the goal is to empower Awesome Chocolates with data-driven strategie
   Focusing on producing and promoting products that resonate with consumers.
 
   ### Key Insights
-  - Raspberry Choco, Peanut Butter Cub, and 85% Dark Bars are the top 3 selling products based on sales per unit.
+  - Raspberry Choco, Peanut Butter Cub, and 85% Dark Bars are the top 3 selling products based on sales-per-unit.
   - Despite some products incurring losses in specific countries, overall profitability remains positive.For example, 70% Dark Bites registers a loss of $1901 in India. However, it is one of our highest selling products globally, with total sales of $25,899.
   - Strategic discontinuation of select products in loss-making countries is recommended to optimize profitability.
   -  Consideration of Profit % rather than units sold is essential when making decisions about discontinuing products.
@@ -70,7 +70,7 @@ Ultimately, the goal is to empower Awesome Chocolates with data-driven strategie
 - [x]	Applying formulas for data manipulation and analysis.
 - [x]	Proficiency in using Pivot Tables & Power Pivot measures for data summarization and analysis.
 - [x]	Implementing conditional formatting for data visualization.
-- [x]	Utilizing Data Validation to ensure data accuracy.
+- [x]	Utilizing Data Validation to ensure the accuracy of data.
       
 
 ## Technical & Soft Skills:
