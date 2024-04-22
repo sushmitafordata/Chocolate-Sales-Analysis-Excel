@@ -23,7 +23,7 @@ Ultimately, the goal is to empower Awesome Chocolates with data-driven strategie
   ### Key Insights
   - The chocolate factory has a diverse range of 22 distinct chocolate varieties.
   - The majority of sales cluster around the lower quartile and median of the sales distribution. However, a few exceptionally high sales numbers, which we consider outliers, are significantly impacting the average.
-  - Lowest 25% of Sales (Q1) is $1652,Average of Sales (Q2) is $3437  and Top 25% of Sales(Q3)is $6246.
+  - The average chocolate sales amount stands at $3437, with the lowest 25% of sales amounting to $1652 (Q1), the median sales amount at $3437 (Q2), and the top 25% of sales reaching $6246 (Q3).
   - In the USA, the range of sales amounts for chocolates is consistently narrow and uniform, while in Canada, it's notably broader, indicating greater variability across regions.
 
 
@@ -37,28 +37,50 @@ Ultimately, the goal is to empower Awesome Chocolates with data-driven strategie
     **2.** **Decision Making**
   Making informed decisions regarding pricing strategies, product offerings , inventory maangement, and resource allocation. 
 
-  **2.** **Performance Incentives**
+  **3.** **Performance Incentives**
   Track individual and team performance metrics,rewarding top performers and provide support and training to those who may be struggling.
 
- ### Key Insights
-  - India ,Canada and New Zealand are top selling countries..
-  - The majority of sales cluster around the lower quartile and median of the sales distribution. However, a few exceptionally high sales numbers, which we consider outliers, are significantly impacting the average.
-  - Lowest 25% of Sales (Q1) is $1652,Average of Sales (Q2) is $3437  and Top 25% of Sales(Q3)is $6246.
-  - In the USA, the range of sales amounts for chocolates is consistently narrow and uniform, while in Canada, it's notably broader, indicating greater variability across regions.
+  ### Key Insights
+  - India ,Canada and New Zealand are top selling countries.
+  - Gigi Bohling has demonstrated exceptional sales performance, earning the top position in three countries: India, Canada, and Australia.
+  - Conversely, Carla Molina and Brien Boise have exhibited comparatively lower sales performance, ranking among the least successful performers in two countries.
 
+## [Product Performance Report](https://github.com/sushmitafordata/Chocolate-Sales-Analysis-Excel/blob/main/Choclate%20Sales%20Analysis(Product%20Performance).pdf) :
 
+- **Project objective:** 
 
+  **1.** **Insight into Sales Trends**
+  To identify trends in consumer prefernces and purchasing behavior.
+
+    **2.** **Optimizing Inventory Management**
+   To minimize stockouts of popular products while reducing excess inventory of slow-moving items. 
+
+  **3.** **Customer Satisfaction and Loyalty**
+  Focusing on producing and promoting products that resonate with consumers.
+
+  ### Key Insights
+  - Raspberry Choco, Peanut Butter Cub, and 85% Dark Bars are the top 3 selling products based on sales per unit.
+  - Despite some products incurring losses in specific countries, overall profitability remains positive.
+  - For example, 70% Dark Bites registers a loss of $1901 in India. However, it is one of our highest selling products globally, with total sales of $25,899.
+  - Strategic discontinuation of select products in loss-making countries is recommended to optimize profitability.
+  -  Consideration of Profit % rather than units sold is essential when making decisions about discontinuing products.
+
+    
+## Excel Features:
+- [x]	Utilizing Tables for efficient data management.
+- [x]	Applying formulas for data manipulation and analysis.
+- [x]	Proficiency in using Pivot Tables & Power Pivot measures for data summarization and analysis.
+- [x]	Implementing conditional formatting for data visualization.
+- [x]	Utilizing Data Validation to ensure data accuracy.
+      
 
 ## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
+- [x]	Proficiency in data analysis project approach.
+- [x]	Competence in calculating descriptive statistics and exploratory data analysis using Excel.
+- [x]	Understanding and application of analysis techniques using formulas and pivots.
+- [x]	Skill in anomaly detection within datasets.
+- [x]	Capability to answer open-ended questions based on data analysis.
+- [x]	Skills in preparing and utilizing Excel charts.
 
-## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+
+
