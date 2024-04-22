@@ -22,10 +22,9 @@ Ultimately, the goal is to empower Awesome Chocolates with data-driven strategie
 
   #### Key Insights
   - Distinct count of Choclates are 22.
-  - Most of the sales falls around the lowest 25% of Sales and the middle of Sales but few upper values are skewing the average.
-
-
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+  - Most of the sales falls around the lowest 25% of Sales and the middle of Sales but few sales numbers that are much higher than usual (outliers) are skewing the average.
+  - Lowest 25% of Sales (Q1) is $1652,Average of Sales (Q2) is $3437  and Top 25% of Sales(Q3)is $6246.
+  - In the USA, the range of sales amounts for chocolates is consistently narrow and uniform, while in Canada, it's notably broader, indicating greater variability across regions.
 
 
 ## Finance Report :
