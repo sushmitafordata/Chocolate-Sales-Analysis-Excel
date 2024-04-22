@@ -60,8 +60,7 @@ Ultimately, the goal is to empower Awesome Chocolates with data-driven strategie
 
   ### Key Insights
   - Raspberry Choco, Peanut Butter Cub, and 85% Dark Bars are the top 3 selling products based on sales per unit.
-  - Despite some products incurring losses in specific countries, overall profitability remains positive.
-  - For example, 70% Dark Bites registers a loss of $1901 in India. However, it is one of our highest selling products globally, with total sales of $25,899.
+  - Despite some products incurring losses in specific countries, overall profitability remains positive.For example, 70% Dark Bites registers a loss of $1901 in India. However, it is one of our highest selling products globally, with total sales of $25,899.
   - Strategic discontinuation of select products in loss-making countries is recommended to optimize profitability.
   -  Consideration of Profit % rather than units sold is essential when making decisions about discontinuing products.
 
